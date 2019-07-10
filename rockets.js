@@ -1,0 +1,1 @@
+class Rocket extends Class;
