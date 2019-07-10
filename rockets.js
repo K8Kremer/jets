@@ -12,3 +12,8 @@ var Rocket = function (color, size) {
 
 module.exports = Rocket;
 >>>>>>> master
+
+
+this.engageSecondaryEngines  = function () {
+  console.log('Secondary Engines Engaged!');
+};
